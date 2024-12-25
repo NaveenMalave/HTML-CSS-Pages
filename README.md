@@ -20,6 +20,10 @@
  link to demo : - [Live](https://naveenmalave.github.io/HTML-CSS-Pages/CSS%20Styling/index.html)
 ### Header/Footer
  link to demo : - [Live](https://naveenmalave.github.io/HTML-CSS-Pages/Header_Footer/index.html)
+ ## Web Page1
+ link to demo : - [Live](https://naveenmalave.github.io/HTML-CSS-Pages/webpage1.html)
+ ## Web Page2
+ link to demo : - [Live](https://naveenmalave.github.io/HTML-CSS-Pages/webpage2.html)
  ## Technologies used
 
 - HTML
