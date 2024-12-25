@@ -1,15 +1,15 @@
 # HTML-CSS-Pages
 ## Grid Method
-
 ### Grid Page1
  link to demo : - [Live](https://naveenmalave.github.io/HTML-CSS-Pages/Grid%20method/GRID%20Page1/page.html)
  ### Grid Page2
  link to demo : - [Live](https://naveenmalave.github.io/HTML-CSS-Pages/Grid%20method/GRID%20Page2/index.html)
-## Student Details Form
-### Demo
- link to demo : - [Live](https://naveenmalave.github.io/Forms/Student%20Detail%20Form/forms1.html)
- 
-
+### Box Method
+ link to demo : - [Live](https://naveenmalave.github.io/HTML-CSS-Pages/Box%20method/index.html)
+ ### CSS Styling
+ link to demo : - [Live](https://naveenmalave.github.io/HTML-CSS-Pages/CSS%20Styling/index.html)
+### Header/Footer
+ link to demo : - [Live](https://naveenmalave.github.io/HTML-CSS-Pages/Header_Footer/index.html)
  ## Technologies used
 
 - HTML
