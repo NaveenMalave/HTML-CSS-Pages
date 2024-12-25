@@ -1,0 +1,58 @@
+p.highlight {
+    background-color: yellow;
+    color: black;
+}
+p:not(.highlight) {
+    background-color: lightpink;
+    color: white;
+}
+label {
+    background-color: antiquewhite;
+    padding: 10px 20px;
+    cursor: pointer;
+    border-radius: 5px;
+    display: inline-block;
+}
+input[type="checkbox"]:checked+ label{
+background-color: aquamarine;
+color: aliceblue;
+} 
+input[type="text"]:disabled{
+    background-color: aquamarine;
+}
+input:enabled {
+background-color: lightblue;
+border: 2px solid blue;
+}
+p::after{
+    content: '-End of the paragraph';
+}
+p.pa{
+    color: brown;
+}
+p.pa::first-line {
+    color: blueviolet;
+}
+p.pass::first-letter{
+    font-size: 3em;
+    color: blue;
+    font-weight: bold;
+}
+.inner-box{
+    padding: 15px;
+    margin: 20px;
+    border: 2px solid blue;
+    background-color: azure;
+}
+.outer-box{
+    width: 150px;
+    height: 200px;
+    border: 2px solid burlywood;
+    background-color: brown;
+}
+.box{
+    width: 200px;
+    height: 100px;
+    border: 2px solid orangered;
+    color: rebeccapurple;
+}
