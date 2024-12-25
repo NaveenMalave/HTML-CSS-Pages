@@ -1,5 +1,15 @@
 # HTML-CSS-Pages
-## Grid Method
+## HTML
+### Lists
+ link to demo : - [Live](https://naveenmalave.github.io/HTML-CSS-Pages/HTML/Lists.html)
+ ### Paragraphs
+ link to demo : - [Live](https://naveenmalave.github.io/HTML-CSS-Pages/HTML/Paragraphs.html)
+### Div
+ link to demo : - [Live](https://naveenmalave.github.io/HTML-CSS-Pages/HTML/div.html)
+ ###  Tables
+ link to demo : - [Live](https://naveenmalave.github.io/HTML-CSS-Pages/HTML/table.html)
+
+## CSS Pages
 ### Grid Page1
  link to demo : - [Live](https://naveenmalave.github.io/HTML-CSS-Pages/Grid%20method/GRID%20Page1/page.html)
  ### Grid Page2
